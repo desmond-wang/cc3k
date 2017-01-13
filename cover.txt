@@ -1,0 +1,25 @@
+|-----------------------------------------------------------------------------|
+|                                                                             |
+|                                                                             |
+|      ####    ####    #####    ##   ##                                       |
+|     ######  ######  #######   ##  ##                                        |
+|    ##      ##            ##   ####                                          |
+|    ##      ##           ##    ## ##                     Group Members       |
+|    ##      ##            ##   ##  ##                         d268wang       |
+|     ######  ######  #######   ##   ##                         y35gong       |
+|      ####    ####    #####    ##    ##                         l359li       |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+| Please select a Player Character:                                           |
+|     Shade(s):  125 HP, 25 Atk, 25 Def                                       |
+|     Drow(d):   150 HP, 25 Atk, 15 Def                                       |
+|                all potions have their effect magnified by 1.5               |
+|     Vampire(v):50  HP, 25 Atk, 25 Def                                       |
+|                gains 5 HP every successful attack and has no maximum HP     |
+|     Troll(t):  120 HP, 25 Atk, 15 Def                                       |
+|                regains 5 HP every turn                                      |
+|     Goblin(g): 110 HP, 15 Atk, 20 Def                                       |
+|                steals 5 gold from every slain enemy                         |
+|-----------------------------------------------------------------------------|
