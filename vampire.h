@@ -1,6 +1,5 @@
 #ifndef Vampire_h
 #define Vampire_h
-
 #include <string>
 #include "player.h"
 
